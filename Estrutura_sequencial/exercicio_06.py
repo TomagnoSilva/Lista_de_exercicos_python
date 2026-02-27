@@ -1,3 +1,7 @@
+"""
+Faça um programa que peça o raio de um círculo, calcule e mostre sua área:
+"""
+
 # Foi Importada essa biblioteca para usar o valor de 'r' com alta precisão (math.pi).
 import math
 
